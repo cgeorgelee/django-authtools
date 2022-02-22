@@ -1,6 +1,8 @@
 django-authtools
 ================
 
+Personal fork to go to Django 3.
+
 .. image:: https://travis-ci.org/fusionbox/django-authtools.png
    :target: http://travis-ci.org/fusionbox/django-authtools
    :alt: Build Status
